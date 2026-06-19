@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 # 🎨 discord-assets
 
 ### Official Discord Shop Assets — Organized & Ready to Use

@@ -45,7 +45,7 @@ Welcome to **discord-assets** — a curated, organized collection of **official 
 | Category | Contents | Status | Download |
 |---|---|---|---|
 | 🎭 Avatar Decorations | 637 Avatar Decorations | ✅ Available Now | [![Download](https://img.shields.io/badge/Download-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1vKdAjRUJ4bmmTXGiSNY5fySAP8PgKBzw/view) |
-| 📛 Nameplates | 236 Nameplates | ✅ Available Now | [![Download](https://img.shields.io/badge/Download-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/17eDB5QsKqC9XKxCv7arWwDpHa7omdP9d?usp=sharing) |
+| 📛 Nameplates | 236 Nameplates | ✅ Available Now | [![Download](https://img.shields.io/badge/Download-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ZWQp3X9xVqUWRMfPCRtZfPKGO-KN6Ce0/view?usp=sharing) |
 | 🖼️ Profile Decorations | Profile Decorations | ⏳ Coming Soon | — |
 
 > 📢 **Note:** We're actively working on organizing and uploading **Profile Decorations**. Stay tuned — it'll be added soon!
